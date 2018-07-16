@@ -1,0 +1,4 @@
+crud
+español
+create update delete read records
+mysql devc++
